@@ -1,0 +1,1292 @@
+﻿Log file open, 03/27/19 17:23:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CSGC
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.860272
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.525s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.27-22.23.57:520][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.27-22.23.57:521][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.27-22.23.57:619][  0]LogHAL: Display: Platform has ~ 8 GB [8502808576 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.27-22.23.57:629][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.27-22.23.57:639][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.27-22.23.57:723][  0]LogInit: Computer: LAPTOP-8MM05LH4
+[2019.03.27-22.23.57:723][  0]LogInit: User: danie
+[2019.03.27-22.23.57:723][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.27-22.23.57:723][  0]LogInit: High frequency timer resolution =1.757811 MHz
+[2019.03.27-22.23.57:724][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.27-22.23.57:724][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.27-22.23.57:724][  0]LogMemory: Process Physical Memory: 100.52 MB used, 100.52 MB peak
+[2019.03.27-22.23.57:724][  0]LogMemory: Process Virtual Memory: 91.12 MB used, 91.12 MB peak
+[2019.03.27-22.23.57:724][  0]LogMemory: Physical Memory: 4016.56 MB used,  4092.35 MB free, 8108.91 MB total
+[2019.03.27-22.23.57:724][  0]LogMemory: Virtual Memory: 4644.09 MB used,  4092.35 MB free, 134217728.00 MB total
+[2019.03.27-22.23.58:690][  0]LogInit: Using OS detected language (en-US).
+[2019.03.27-22.23.58:690][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.27-22.23.58:775][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.27-22.23.59:785][  0]LogStreaming: Display: Took  1.096s to InitEngineTextLocalization.
+[2019.03.27-22.23.59:785][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.27-22.24.00:314][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.27-22.24.00:314][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.27-22.24.05:044][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.27-22.24.05:044][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.27-22.24.05:085][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.03.27-22.24.05:085][  0]LogD3D11RHI:       128/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.03.27-22.24.05:087][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.27-22.24.05:087][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.27-22.24.05:087][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.27-22.24.05:093][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.27-22.24.05:093][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.27-22.24.05:113][  0]LogWindows: EnumDisplayDevices:
+[2019.03.27-22.24.05:113][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.03.27-22.24.05:113][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.03.27-22.24.05:113][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.03.27-22.24.05:114][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.03.27-22.24.05:114][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.03.27-22.24.05:114][  0]LogD3D11RHI:   Driver Version: 22.20.16.4815 (internal:22.20.16.4815, unified:22.20.16.4815)
+[2019.03.27-22.24.05:114][  0]LogD3D11RHI:      Driver Date: 9-26-2017
+[2019.03.27-22.24.05:114][  0]LogRHI: Texture pool is 1508 MB (70% of 2155 MB)
+[2019.03.27-22.24.05:125][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.27-22.24.05:473][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.03.27-22.24.05:554][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Intermediate/Shaders/WorkingDirectory/11504/).
+[2019.03.27-22.24.05:556][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danie/AppData/Local/Temp/UnrealShaderWorkingDir/9A01EFB14CFF1EC08D609CAB200B36DC/'.
+[2019.03.27-22.24.07:494][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.27-22.24.07:549][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.27-22.24.07:586][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.27-22.24.07:616][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.27-22.24.07:659][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.27-22.24.07:710][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.27-22.24.07:737][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.27-22.24.07:767][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.27-22.24.07:782][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-22.24.07:920][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.27-22.24.08:130][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.27-22.24.08:130][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.27-22.24.08:221][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.27-22.24.08:221][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.27-22.24.08:269][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.27-22.24.08:304][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.27-22.24.08:331][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.27-22.24.08:379][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.27-22.24.08:403][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.27-22.24.08:403][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.27-22.24.09:312][  0]LogXGEController: Cleaning working directory: C:/Users/danie/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.27-22.24.09:313][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.27-22.24.09:313][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.27-22.24.09:314][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.27-22.24.16:804][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.27-22.24.17:769][  0]LogDerivedDataCache: Loaded boot cache 0.96s 71MB C:/Users/danie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.27-22.24.17:770][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/danie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.27-22.24.17:771][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/danie/Documents/Unreal Projects/CSGC/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.27-22.24.17:771][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.27-22.24.17:771][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/danie/Documents/Unreal Projects/CSGC/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.27-22.24.17:771][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.27-22.24.17:894][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.27-22.24.17:927][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.27-22.24.17:927][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.27-22.24.17:927][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.27-22.24.17:965][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.27-22.24.18:022][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.27-22.24.18:135][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.27-22.24.19:684][  0]LogAssetRegistry: FAssetRegistry took 0.0405 seconds to start up
+[2019.03.27-22.24.23:671][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.27-22.24.25:667][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.27-22.24.25:830][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.27-22.24.25:830][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.27-22.24.25:831][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.27-22.24.25:831][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.27-22.24.26:190][  0]LogNetVersion: CSGC 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4023825393)
+[2019.03.27-22.24.32:985][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.216021 seconds
+[2019.03.27-22.24.33:037][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.27-22.24.33:037][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.03.27-22.24.33:037][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.27-22.25.03:197][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.27-22.25.03:240][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.27-22.25.05:006][  0]SourceControl: Source control is disabled
+[2019.03.27-22.25.05:007][  0]SourceControl: Source control is disabled
+[2019.03.27-22.25.05:090][  0]SourceControl: Source control is disabled
+[2019.03.27-22.25.05:121][  0]SourceControl: Source control is disabled
+[2019.03.27-22.25.06:891][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.27-22.25.07:197][  0]LogOcInput: OculusInput pre-init called
+[2019.03.27-22.25.08:133][  0]LogEngine: Initializing Engine...
+[2019.03.27-22.25.08:157][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.27-22.25.08:197][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2019.03.27-22.25.08:197][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.27-22.25.08:198][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.03.27-22.25.08:199][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.27-22.25.09:419][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.27-22.25.09:978][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.27-22.25.10:275][  0]LogInit: XAudio2 using 'HISENSE (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.27-22.25.10:407][  0]LogInit: FAudioDevice initialized.
+[2019.03.27-22.25.10:407][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.27-22.25.10:674][  0]LogDerivedDataCache: Saved boot cache 0.27s 71MB C:/Users/danie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.27-22.25.10:713][  0]LogInit: Texture streaming: Enabled
+[2019.03.27-22.25.11:198][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.27-22.25.11:487][  0]LogInit: Transaction tracking system initialized
+[2019.03.27-22.25.12:044][  0]BlueprintLog: New page: Editor Load
+[2019.03.27-22.25.13:667][  0]LocalizationService: Localization service is disabled
+[2019.03.27-22.25.19:259][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Documents/Unreal Projects/CSGC/Content/' took 0.05s
+[2019.03.27-22.25.19:259][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.27-22.25.19:316][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.27-22.25.19:373][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.27-22.25.19:374][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.27-22.25.19:374][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.27-22.25.19:374][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.27-22.25.19:374][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.27-22.25.22:420][  0]SourceControl: Source control is disabled
+[2019.03.27-22.25.22:492][  0]Cmd: MAP LOAD FILE="../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/CSGC_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.27-22.25.22:496][  0]LightingResults: New page: Lighting Build
+[2019.03.27-22.25.22:681][  0]MapCheck: New page: Map Check
+[2019.03.27-22.25.22:681][  0]LightingResults: New page: Lighting Build
+[2019.03.27-22.25.26:650][  0]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.25.27:197][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.27-22.25.27:378][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.27-22.25.27:648][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 269.801ms to complete.
+[2019.03.27-22.25.27:682][  0]LogFileHelpers: Loading map 'CSGC_Map' took 5.222
+[2019.03.27-22.25.29:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.25.29:534][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.25.29:545][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.25.29:553][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.25.29:716][  0]LogCollectionManager: Loaded 0 collections in 0.004025 seconds
+[2019.03.27-22.25.29:993][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Documents/Unreal Projects/CSGC/Saved/Collections/' took 0.01s
+[2019.03.27-22.25.29:993][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Documents/Unreal Projects/CSGC/Content/Developers/danie/Collections/' took 0.01s
+[2019.03.27-22.25.29:993][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Documents/Unreal Projects/CSGC/Content/Collections/' took 0.01s
+[2019.03.27-22.25.29:993][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.03.27-22.25.30:033][  0]LogContentBrowser: Native class hierarchy populated in 0.0353 seconds. Added 2572 classes and 603 folders.
+[2019.03.27-22.25.30:156][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2019.03.27-22.25.33:466][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2019.03.27-22.25.33:577][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.03.27-22.25.34:823][  0]LogSlate: Took 0.027471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.27-22.25.34:842][  0]LogSlate: Took 0.015890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.27-22.25.34:894][  0]LogSlate: Took 0.006647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.27-22.25.35:775][  0]LogRenderer: Reallocating scene render targets to support 876x384 Format 9 NumSamples 1 (Frame:1).
+[2019.03.27-22.25.37:247][  0]LogSlate: Took 0.030205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.27-22.25.37:590][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.03.27-22.25.37:590][  0]LogLoad: (Engine Initialization) Total time: 132.08 seconds
+[2019.03.27-22.25.37:590][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.27-22.25.37:825][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.03.27-22.25.38:802][  3]LogAssetRegistry: Asset discovery search completed in 79.1408 seconds
+[2019.03.27-22.25.38:805][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.27-22.25.38:805][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000225 seconds (updated 0 objects)
+[2019.03.27-22.25.39:125][  4]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.27-22.25.42:310][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-22.25.42:468][114]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Spline.Spline
+[2019.03.27-22.25.44:493][114]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0026 seconds. Added 116 classes and 0 folders.
+[2019.03.27-22.25.47:451][114]LogSlate: Took 0.028292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.27-22.25.48:203][115]LogSlate: Took 0.020255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.27-22.26.37:733][ 32]LogHttp: Warning: 0000023A06BC9F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.26.37:733][ 32]LogHttp: Warning: 0000023A06BC9F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.26.37:733][ 32]LogHttp: Warning: 0000023A06BC9F80: libcurl info message cache 1 (Closing connection 0)
+[2019.03.27-22.28.37:775][204]LogHttp: Warning: 0000023A06BC9F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.28.37:775][204]LogHttp: Warning: 0000023A06BC9F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.28.37:775][204]LogHttp: Warning: 0000023A06BC9F80: libcurl info message cache 1 (Closing connection 1)
+[2019.03.27-22.29.14:738][271]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map
+[2019.03.27-22.30.37:815][606]LogHttp: Warning: 0000023A3AE5B880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.30.37:815][606]LogHttp: Warning: 0000023A3AE5B880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.30.37:815][606]LogHttp: Warning: 0000023A3AE5B880: libcurl info message cache 1 (Closing connection 2)
+[2019.03.27-22.30.55:638][435]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-22.30.55:771][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.30.55:819][435]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.27-22.30.55:848][435]LogPlayLevel: [PlayLevel] Compiling Spline before play...
+[2019.03.27-22.30.56:680][435]LogPlayLevel: PlayLevel: Blueprint regeneration took 861 ms (1 blueprints)
+[2019.03.27-22.30.56:903][435]PIE: New page: PIE session: CSGC_Map (Mar 27, 2019, 12:30:56 PM)
+[2019.03.27-22.30.56:904][435]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.30.56:974][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070408s)
+[2019.03.27-22.30.56:975][435]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.30.56:976][435]LogPlayLevel: PIE: World Init took: (0.002012s)
+[2019.03.27-22.30.56:976][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.073045s)
+[2019.03.27-22.30.57:060][435]LogInit: XAudio2 using 'HISENSE (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.27-22.30.57:066][435]LogInit: FAudioDevice initialized.
+[2019.03.27-22.30.57:079][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.30.57:156][435]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.30.57:242][435]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.30.57
+[2019.03.27-22.30.57:270][435]LogWorld: Bringing up level for play took: 0.028399
+[2019.03.27-22.30.57:392][435]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.03.27-22.30.57:743][435]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 2.839
+[2019.03.27-22.30.57:757][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.30.57:845][435]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.30.57:956][435]LogRenderer: Reallocating scene render targets to support 916x536 Format 9 NumSamples 1 (Frame:1).
+[2019.03.27-22.31.03:098][579]LogBlueprintUserMessages: [CSGC_Map_C_9] TIME IS UP
+[2019.03.27-22.31.03:098][579]LogBlueprintUserMessages: [CSGC_Map_C_9] RESTARTING LEVEL
+[2019.03.27-22.31.09:143][777]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-22.31.09:165][777]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-22.31.09:477][777]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.31.09:500][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024260s)
+[2019.03.27-22.31.09:501][777]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.31.09:502][777]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2019.03.27-22.31.09:502][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.025820s)
+[2019.03.27-22.31.09:502][777]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.31.09:505][777]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.31.09
+[2019.03.27-22.31.09:505][777]LogWorld: Bringing up level for play took: 0.001355
+[2019.03.27-22.31.09:510][777]LogLoad: Took 0.345230 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-22.31.09:518][777]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.31.11:111][823]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.31.11:112][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.31.11:143][823]LogSlate: Window 'CSGC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.27-22.31.11:206][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-22.31.11:224][823]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.31.11:463][824]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.03.27-22.32.09:797][876]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-22.32.09:822][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.32.09:822][876]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.27-22.32.09:829][876]LogPlayLevel: [PlayLevel] Compiling CSGC_Map before play...
+[2019.03.27-22.32.09:969][876]LogPlayLevel: PlayLevel: Blueprint regeneration took 148 ms (1 blueprints)
+[2019.03.27-22.32.09:970][876]PIE: New page: PIE session: CSGC_Map (Mar 27, 2019, 12:32:09 PM)
+[2019.03.27-22.32.09:970][876]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.32.09:973][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003226s)
+[2019.03.27-22.32.09:974][876]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.32.09:974][876]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2019.03.27-22.32.09:974][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.004194s)
+[2019.03.27-22.32.10:010][876]LogInit: XAudio2 using 'HISENSE (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.27-22.32.10:016][876]LogInit: FAudioDevice initialized.
+[2019.03.27-22.32.10:027][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.32.10:073][876]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.32.10:075][876]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.32.10
+[2019.03.27-22.32.10:075][876]LogWorld: Bringing up level for play took: 0.001154
+[2019.03.27-22.32.10:098][876]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 1.194
+[2019.03.27-22.32.10:098][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.32.10:100][876]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.32.14:724][996]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.14:757][997]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.14:827][998]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.14:845][999]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.14:866][  0]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.14:903][  1]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.14:903][  1]LogBlueprintUserMessages: [CSGC_Map_C_0] TIME IS UP
+[2019.03.27-22.32.14:903][  1]LogBlueprintUserMessages: [CSGC_Map_C_0] RESTARTING LEVEL
+[2019.03.27-22.32.14:937][  2]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.14:974][  3]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:011][  4]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:033][  5]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:068][  6]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:116][  7]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:142][  8]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:163][  9]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:197][ 10]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:232][ 11]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:265][ 12]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:303][ 13]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:342][ 14]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:365][ 15]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:395][ 16]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:429][ 17]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:462][ 18]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:494][ 19]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:527][ 20]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:559][ 21]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:592][ 22]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:625][ 23]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:659][ 24]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:692][ 25]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:724][ 26]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:756][ 27]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:788][ 28]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:822][ 29]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:854][ 30]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:887][ 31]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:921][ 32]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:953][ 33]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.15:987][ 34]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:021][ 35]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:053][ 36]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:086][ 37]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:119][ 38]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:152][ 39]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:185][ 40]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:218][ 41]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:251][ 42]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:285][ 43]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:317][ 44]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:350][ 45]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:382][ 46]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:415][ 47]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:447][ 48]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:481][ 49]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:514][ 50]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:547][ 51]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:567][ 52]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:614][ 53]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:646][ 54]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:680][ 55]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:700][ 56]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:735][ 57]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:771][ 58]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:799][ 59]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:833][ 60]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:868][ 61]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:907][ 62]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:941][ 63]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:959][ 64]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.16:992][ 65]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:025][ 66]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:058][ 67]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:090][ 68]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:123][ 69]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:156][ 70]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:188][ 71]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:221][ 72]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:254][ 73]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:286][ 74]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:319][ 75]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:353][ 76]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:386][ 77]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:418][ 78]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:449][ 79]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:481][ 80]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:512][ 81]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:532][ 82]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:591][ 83]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:612][ 84]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:660][ 85]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:679][ 86]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:699][ 87]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:732][ 88]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:763][ 89]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:794][ 90]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:827][ 91]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:860][ 92]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:892][ 93]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:925][ 94]LogBlueprintUserMessages: [CSGC_Map_C_0] YOU WIN!!!
+[2019.03.27-22.32.17:957][ 95]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-22.32.17:985][ 95]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-22.32.18:033][ 95]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.32.18:039][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005203s)
+[2019.03.27-22.32.18:041][ 95]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.32.18:041][ 95]LogPlayLevel: PIE: World Init took: (0.002288s)
+[2019.03.27-22.32.18:041][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.007922s)
+[2019.03.27-22.32.18:041][ 95]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.32.18:044][ 95]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.32.18
+[2019.03.27-22.32.18:044][ 95]LogWorld: Bringing up level for play took: 0.001266
+[2019.03.27-22.32.18:048][ 95]LogLoad: Took 0.062857 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-22.32.18:050][ 95]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.32.22:935][247]LogBlueprintUserMessages: [CSGC_Map_C_0] TIME IS UP
+[2019.03.27-22.32.22:936][247]LogBlueprintUserMessages: [CSGC_Map_C_0] RESTARTING LEVEL
+[2019.03.27-22.32.25:973][353]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-22.32.26:000][353]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-22.32.26:058][353]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.32.26:062][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003832s)
+[2019.03.27-22.32.26:063][353]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.32.26:063][353]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2019.03.27-22.32.26:063][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.004974s)
+[2019.03.27-22.32.26:063][353]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.32.26:065][353]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.32.26
+[2019.03.27-22.32.26:065][353]LogWorld: Bringing up level for play took: 0.001073
+[2019.03.27-22.32.26:069][353]LogLoad: Took 0.069541 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-22.32.26:070][353]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.32.30:965][519]LogBlueprintUserMessages: [CSGC_Map_C_0] TIME IS UP
+[2019.03.27-22.32.30:965][519]LogBlueprintUserMessages: [CSGC_Map_C_0] RESTARTING LEVEL
+[2019.03.27-22.32.33:098][594]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.32.33:098][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.32.33:136][594]LogSlate: Window 'CSGC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.27-22.32.33:200][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-22.32.33:200][594]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.32.33:336][595]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.03.27-22.32.37:853][ 47]LogHttp: Warning: 0000023A074CF740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.32.37:853][ 47]LogHttp: Warning: 0000023A074CF740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.32.37:853][ 47]LogHttp: Warning: 0000023A074CF740: libcurl info message cache 1 (Closing connection 3)
+[2019.03.27-22.33.41:988][608]BlueprintLog: New page: Compile CSGC_Map
+[2019.03.27-22.33.56:217][799]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.27-22.34.35:894][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-22.34.37:871][ 85]LogHttp: Warning: 0000023A05848680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.34.37:871][ 85]LogHttp: Warning: 0000023A05848680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.34.37:871][ 85]LogHttp: Warning: 0000023A05848680: libcurl info message cache 1 (Closing connection 4)
+[2019.03.27-22.35.18:100][212]BlueprintLog: New page: Compile Spline
+[2019.03.27-22.36.16:405][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CSGC_Map" FILE="../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/CSGC_Map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.03.27-22.36.16:734][101]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/CSGC_Map_Auto100697EE04593D313BD74CE8A28AEFBBC.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/CSGC_Map_Auto1.umap'
+[2019.03.27-22.36.16:814][101]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CSGC_Map' took 0.582
+[2019.03.27-22.36.16:814][101]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.582
+[2019.03.27-22.36.16:820][101]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Spline] ([1] browsable assets)...
+[2019.03.27-22.36.16:855][101]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/Spline.Spline]
+[2019.03.27-22.36.16:855][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Spline]
+[2019.03.27-22.36.16:921][101]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Spline_Auto16E75F1FE4FEDE9B82B17D3942C3D953C.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Spline_Auto1.uasset'
+[2019.03.27-22.36.16:924][101]LogFileHelpers: Auto-saving content packages took 0.107
+[2019.03.27-22.36.37:916][577]LogHttp: Warning: 0000023A00799E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.36.37:916][577]LogHttp: Warning: 0000023A00799E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.36.37:916][577]LogHttp: Warning: 0000023A00799E40: libcurl info message cache 1 (Closing connection 5)
+[2019.03.27-22.36.59:453][910]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Object.Object
+[2019.03.27-22.38.37:949][766]LogHttp: Warning: 0000023A1F1EF600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.38.37:949][766]LogHttp: Warning: 0000023A1F1EF600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.38.37:949][766]LogHttp: Warning: 0000023A1F1EF600: libcurl info message cache 1 (Closing connection 6)
+[2019.03.27-22.39.00:267][100]BlueprintLog: New page: Compile Object
+[2019.03.27-22.39.15:192][580]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
+[2019.03.27-22.39.28:353][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-22.39.28:441][970]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-22.39.28:480][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.39.28:481][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-22.39.28:481][970]PIE: New page: PIE session: CSGC_Map (Mar 27, 2019, 12:39:28 PM)
+[2019.03.27-22.39.28:481][970]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.39.28:485][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004041s)
+[2019.03.27-22.39.28:486][970]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.39.28:486][970]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2019.03.27-22.39.28:486][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005137s)
+[2019.03.27-22.39.28:562][970]LogInit: XAudio2 using 'HISENSE (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.27-22.39.28:571][970]LogInit: FAudioDevice initialized.
+[2019.03.27-22.39.28:602][970]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.39.28:604][970]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.39.28
+[2019.03.27-22.39.28:605][970]LogWorld: Bringing up level for play took: 0.000947
+[2019.03.27-22.39.28:620][970]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map -0.284
+[2019.03.27-22.39.28:620][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.39.28:725][970]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.39.35:946][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.39.35:994][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.39.36:068][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-22.39.36:069][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.39.36:116][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.39.36:144][385]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.03.27-22.40.38:028][446]LogHttp: Warning: 0000023A1E1E5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.40.38:029][446]LogHttp: Warning: 0000023A1E1E5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.40.38:029][446]LogHttp: Warning: 0000023A1E1E5A80: libcurl info message cache 1 (Closing connection 7)
+[2019.03.27-22.41.15:855][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-22.41.16:150][693]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2019.03.27-22.41.16:473][693]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.27-22.41.16:473][693]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.03.27-22.41.16:664][693]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-22.41.16:664][693]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-22.41.16:664][693]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.03.27-22.41.17:024][693]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-22.41.17:024][693]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.03.27-22.41.17:311][693]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.03.27-22.41.17:603][693]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.27-22.41.17:630][693]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.27-22.41.17:706][693]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.27-22.41.17:756][693]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.27-22.41.17:840][693]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.03.27-22.41.17:910][693]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.03.27-22.41.17:996][693]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.03.27-22.41.18:157][693]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.03.27-22.41.27:492][880]LogShaderCompilers: Display: Shaders left to compile 178
+[2019.03.27-22.41.33:224][  2]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.03.27-22.41.33:667][ 12]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.03.27-22.41.33:808][ 14]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.03.27-22.41.43:026][214]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.03.27-22.41.46:410][285]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.03.27-22.41.48:764][333]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.03.27-22.41.48:861][335]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.03.27-22.41.59:222][559]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.03.27-22.42.02:376][627]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.03.27-22.42.04:750][679]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.03.27-22.42.04:985][684]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.03.27-22.42.15:142][903]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.27-22.42.18:037][966]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.27-22.42.20:918][ 29]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.27-22.42.21:043][ 32]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.27-22.42.32:024][270]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.27-22.42.34:301][319]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.27-22.42.38:157][404]LogHttp: Warning: 0000023A22020F40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.42.38:157][404]LogHttp: Warning: 0000023A22020F40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.42.38:157][404]LogHttp: Warning: 0000023A22020F40: libcurl info message cache 1 (Closing connection 8)
+[2019.03.27-22.44.37:429][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-22.44.38:209][952]LogHttp: Warning: 0000023A22022C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.44.38:209][952]LogHttp: Warning: 0000023A22022C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.44.38:209][952]LogHttp: Warning: 0000023A22022C00: libcurl info message cache 1 (Closing connection 9)
+[2019.03.27-22.45.50:956][283]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
+[2019.03.27-22.46.13:702][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-22.46.13:836][960]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-22.46.13:876][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.46.13:877][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-22.46.13:877][960]PIE: New page: PIE session: CSGC_Map (Mar 27, 2019, 12:46:13 PM)
+[2019.03.27-22.46.13:877][960]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.46.13:886][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008600s)
+[2019.03.27-22.46.13:887][960]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.46.13:887][960]LogPlayLevel: PIE: World Init took: (0.001533s)
+[2019.03.27-22.46.13:887][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.010348s)
+[2019.03.27-22.46.13:968][960]LogInit: XAudio2 using 'HISENSE (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.27-22.46.13:976][960]LogInit: FAudioDevice initialized.
+[2019.03.27-22.46.14:011][960]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.46.14:014][960]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.46.14
+[2019.03.27-22.46.14:014][960]LogWorld: Bringing up level for play took: 0.000980
+[2019.03.27-22.46.14:029][960]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 1.126
+[2019.03.27-22.46.14:030][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.46.14:110][960]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.46.18:385][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.46.18:387][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.46.18:442][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-22.46.18:442][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.46.18:487][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.46.18:518][203]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.27-22.46.23:595][351]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
+[2019.03.27-22.46.24:106][362]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.27-22.46.31:640][593]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.27-22.46.38:293][790]LogHttp: Warning: 0000023A1F1ECA40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.46.38:293][790]LogHttp: Warning: 0000023A1F1ECA40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.46.38:293][790]LogHttp: Warning: 0000023A1F1ECA40: libcurl info message cache 1 (Closing connection 10)
+[2019.03.27-22.46.38:928][807]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.03.27-22.46.39:408][820]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.27-22.46.41:067][868]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.27-22.46.44:373][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-22.46.45:697][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.46.45:697][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-22.46.45:697][999]PIE: New page: SIE session: CSGC_Map (Mar 27, 2019, 12:46:45 PM)
+[2019.03.27-22.46.45:698][999]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.46.45:703][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005511s)
+[2019.03.27-22.46.45:704][999]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.46.45:704][999]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2019.03.27-22.46.45:704][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.006513s)
+[2019.03.27-22.46.45:742][999]LogInit: XAudio2 using 'HISENSE (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.27-22.46.45:748][999]LogInit: FAudioDevice initialized.
+[2019.03.27-22.46.45:748][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-22.46.45:781][999]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.46.45:783][999]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.46.45
+[2019.03.27-22.46.45:783][999]LogWorld: Bringing up level for play took: 0.000843
+[2019.03.27-22.46.45:796][999]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 0.893
+[2019.03.27-22.46.45:981][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.46.46:009][999]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.46.46:829][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-22.46.52:191][147]LogEditorViewport: Clicking on Actor (LMB): Object_C (Object2)
+[2019.03.27-22.47.00:639][380]LogEditorViewport: Clicking on Actor (LMB): Object_C (Object2)
+[2019.03.27-22.47.06:509][542]Cmd: DELETE
+[2019.03.27-22.47.06:509][542]Cmd: ACTOR DELETE
+[2019.03.27-22.47.06:961][542]LogEditorActor: Deleted Actor: Object_C
+[2019.03.27-22.47.06:992][542]LogEditorActor: Deleted 1 Actors (0.173 secs)
+[2019.03.27-22.47.09:211][608]LogEditorViewport: Clicking on Actor (LMB): Object_C (Object)
+[2019.03.27-22.47.10:966][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-22.47.11:120][664]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.11:121][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.47.11:170][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-22.47.11:170][664]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.11:201][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.47.11:216][665]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.03.27-22.47.13:543][741]LogTemp: Repeating last play command: Simulate
+[2019.03.27-22.47.13:566][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.13:566][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-22.47.13:566][741]PIE: New page: SIE session: CSGC_Map (Mar 27, 2019, 12:47:13 PM)
+[2019.03.27-22.47.13:566][741]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.47.13:573][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006927s)
+[2019.03.27-22.47.13:574][741]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.47.13:574][741]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2019.03.27-22.47.13:574][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.007884s)
+[2019.03.27-22.47.13:608][741]LogInit: XAudio2 using 'HISENSE (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.27-22.47.13:614][741]LogInit: FAudioDevice initialized.
+[2019.03.27-22.47.13:643][741]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.47.13:645][741]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.47.13
+[2019.03.27-22.47.13:645][741]LogWorld: Bringing up level for play took: 0.000883
+[2019.03.27-22.47.13:657][741]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 0.753
+[2019.03.27-22.47.13:659][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.13:661][741]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.47.16:302][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.16:302][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.47.16:349][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-22.47.16:349][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.16:381][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.47.16:410][811]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.27-22.47.18:769][882]LogEditorViewport: Clicking on Actor (LMB): Object_C (Object2)
+[2019.03.27-22.47.22:888][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-22.47.23:037][998]LogTemp: Repeating last play command: Simulate
+[2019.03.27-22.47.23:075][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.23:075][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-22.47.23:076][998]PIE: New page: SIE session: CSGC_Map (Mar 27, 2019, 12:47:23 PM)
+[2019.03.27-22.47.23:076][998]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.47.23:088][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011468s)
+[2019.03.27-22.47.23:089][998]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.47.23:089][998]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2019.03.27-22.47.23:089][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.013105s)
+[2019.03.27-22.47.23:150][998]LogInit: XAudio2 using 'HISENSE (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.27-22.47.23:156][998]LogInit: FAudioDevice initialized.
+[2019.03.27-22.47.23:190][998]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.47.23:192][998]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.47.23
+[2019.03.27-22.47.23:192][998]LogWorld: Bringing up level for play took: 0.000964
+[2019.03.27-22.47.23:205][998]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 0.302
+[2019.03.27-22.47.23:213][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.23:215][998]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.47.24:142][ 20]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.27-22.47.24:729][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.24:731][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.47.24:787][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-22.47.24:788][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.24:821][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.47.24:840][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.27-22.47.26:352][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-22.47.27:590][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.27:590][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-22.47.27:590][114]PIE: New page: PIE session: CSGC_Map (Mar 27, 2019, 12:47:27 PM)
+[2019.03.27-22.47.27:590][114]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.47.27:594][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003800s)
+[2019.03.27-22.47.27:595][114]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.47.27:595][114]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2019.03.27-22.47.27:595][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.004806s)
+[2019.03.27-22.47.27:636][114]LogInit: XAudio2 using 'HISENSE (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.27-22.47.27:643][114]LogInit: FAudioDevice initialized.
+[2019.03.27-22.47.27:643][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-22.47.27:672][114]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.47.27:674][114]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.47.27
+[2019.03.27-22.47.27:674][114]LogWorld: Bringing up level for play took: 0.000794
+[2019.03.27-22.47.27:689][114]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 0.786
+[2019.03.27-22.47.27:690][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.27:771][114]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.47.35:288][557]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:307][558]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:333][559]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:349][560]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:365][561]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:383][562]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:398][563]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:416][564]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:431][565]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:449][566]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:464][567]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:484][568]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:498][569]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:517][570]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:532][571]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:552][572]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:566][573]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:585][574]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:599][575]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:618][576]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:635][577]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:659][578]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:675][579]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:687][580]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:705][581]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:719][582]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:736][583]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:752][584]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:769][585]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:785][586]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:802][587]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:818][588]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:835][589]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:852][590]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:869][591]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:885][592]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:903][593]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:919][594]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:936][595]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:953][596]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:970][597]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.35:988][598]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:008][599]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:023][600]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:041][601]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:056][602]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:075][603]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:094][604]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:110][605]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:127][606]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:142][607]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:163][608]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:178][609]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:199][610]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:214][611]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:232][612]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:248][613]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:266][614]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:282][615]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:302][616]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:318][617]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:335][618]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:352][619]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:369][620]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:386][621]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:404][622]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:420][623]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:440][624]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:456][625]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:474][626]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:490][627]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:509][628]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:524][629]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:542][630]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:556][631]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:574][632]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:590][633]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:607][634]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:629][635]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:645][636]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:664][637]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:678][638]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:698][639]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:713][640]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:731][641]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:746][642]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:765][643]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:780][644]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:799][645]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:814][646]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:832][647]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:847][648]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:865][649]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:880][650]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:899][651]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:913][652]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:932][653]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:948][654]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:966][655]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:982][656]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.36:999][657]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:015][658]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:033][659]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:050][660]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:070][661]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:084][662]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:101][663]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:118][664]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:137][665]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:152][666]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:170][667]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:185][668]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:204][669]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:219][670]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:238][671]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:253][672]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:273][673]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:288][674]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:306][675]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:321][676]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:339][677]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:353][678]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:371][679]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:386][680]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:405][681]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:420][682]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:439][683]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:455][684]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:473][685]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:488][686]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:506][687]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:521][688]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:539][689]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:555][690]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:574][691]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:595][692]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:612][693]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:629][694]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:645][695]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:665][696]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:679][697]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:697][698]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:712][699]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:731][700]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:746][701]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:764][702]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:779][703]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:797][704]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:812][705]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:829][706]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:844][707]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:863][708]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:877][709]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:893][710]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:911][711]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:930][712]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:945][713]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:963][714]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:978][715]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.37:996][716]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.38:011][717]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.38:029][718]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.38:044][719]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.38:063][720]LogBlueprintUserMessages: [CSGC_Map_C_2] YOU WIN!!!
+[2019.03.27-22.47.38:065][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.38:065][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.47.38:119][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-22.47.38:119][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.47.38:166][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-22.47.38:195][721]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.03.27-22.48.02:326][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-22.48.02:414][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CSGC_Map" FILE="../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/CSGC_Map_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.03.27-22.48.02:701][471]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/CSGC_Map_Auto2DE1BA9EB4253218A9D97F08FDF21629B.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/CSGC_Map_Auto2.umap'
+[2019.03.27-22.48.02:709][471]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CSGC_Map' took 0.333
+[2019.03.27-22.48.02:709][471]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.333
+[2019.03.27-22.48.20:943][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-22.48.38:376][530]LogHttp: Warning: 0000023A06F37C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.48.38:376][530]LogHttp: Warning: 0000023A06F37C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.48.38:376][530]LogHttp: Warning: 0000023A06F37C40: libcurl info message cache 1 (Closing connection 11)
+[2019.03.27-22.50.38:444][ 31]LogHttp: Warning: 0000023A06F37C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.50.38:444][ 31]LogHttp: Warning: 0000023A06F37C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.50.38:444][ 31]LogHttp: Warning: 0000023A06F37C40: libcurl info message cache 1 (Closing connection 12)
+[2019.03.27-22.52.38:517][555]LogHttp: Warning: 0000023A06F37C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.52.38:517][555]LogHttp: Warning: 0000023A06F37C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.52.38:517][555]LogHttp: Warning: 0000023A06F37C40: libcurl info message cache 1 (Closing connection 13)
+[2019.03.27-22.52.58:248][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-22.54.38:555][801]LogHttp: Warning: 0000023A0302F240: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.54.38:555][801]LogHttp: Warning: 0000023A0302F240: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.54.38:555][801]LogHttp: Warning: 0000023A0302F240: libcurl info message cache 1 (Closing connection 14)
+[2019.03.27-22.56.38:579][611]LogHttp: Warning: 0000023A0302F240: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.56.38:579][611]LogHttp: Warning: 0000023A0302F240: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.56.38:579][611]LogHttp: Warning: 0000023A0302F240: libcurl info message cache 1 (Closing connection 15)
+[2019.03.27-22.58.02:731][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CSGC_Map" FILE="../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/CSGC_Map_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.03.27-22.58.02:908][312]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/CSGC_Map_Auto3E8D7965F4D45120A07EA64B3B4546DB6.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/CSGC_Map_Auto3.umap'
+[2019.03.27-22.58.02:982][312]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CSGC_Map' took 0.287
+[2019.03.27-22.58.02:982][312]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.287
+[2019.03.27-22.58.38:606][128]LogHttp: Warning: 0000023A1E607240: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-22.58.38:606][128]LogHttp: Warning: 0000023A1E607240: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-22.58.38:606][128]LogHttp: Warning: 0000023A1E607240: libcurl info message cache 1 (Closing connection 16)
+[2019.03.27-22.58.56:933][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-22.58.57:035][804]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-22.58.57:077][804]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.58.57:078][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-22.58.57:078][804]PIE: New page: PIE session: CSGC_Map (Mar 27, 2019, 12:58:57 PM)
+[2019.03.27-22.58.57:078][804]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-22.58.57:089][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010004s)
+[2019.03.27-22.58.57:090][804]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-22.58.57:090][804]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2019.03.27-22.58.57:090][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.011766s)
+[2019.03.27-22.58.57:144][804]LogInit: XAudio2 using 'HISENSE (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.27-22.58.57:151][804]LogInit: FAudioDevice initialized.
+[2019.03.27-22.58.57:181][804]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-22.58.57:183][804]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-17.58.57
+[2019.03.27-22.58.57:183][804]LogWorld: Bringing up level for play took: 0.000972
+[2019.03.27-22.58.57:199][804]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 0.295
+[2019.03.27-22.58.57:199][804]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-22.58.57:283][804]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-22.59.57:010][504]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-22.59.57:010][504]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.00.00:043][693]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.00.00:048][693]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.00.00:103][693]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.00.00:108][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005252s)
+[2019.03.27-23.00.00:109][693]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.00.00:110][693]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2019.03.27-23.00.00:110][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.006626s)
+[2019.03.27-23.00.00:110][693]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.00.00:112][693]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-18.00.00
+[2019.03.27-23.00.00:112][693]LogWorld: Bringing up level for play took: 0.001172
+[2019.03.27-23.00.00:116][693]LogLoad: Took 0.068541 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.00.00:118][693]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.00.38:655][194]LogHttp: Warning: 0000023A3F894A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-23.00.38:655][194]LogHttp: Warning: 0000023A3F894A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-23.00.38:655][194]LogHttp: Warning: 0000023A3F894A40: libcurl info message cache 1 (Closing connection 17)
+[2019.03.27-23.01.00:036][601]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.01.00:036][601]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.01.03:054][781]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.01.03:060][781]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.01.03:133][781]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.01.03:139][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006138s)
+[2019.03.27-23.01.03:140][781]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.01.03:140][781]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2019.03.27-23.01.03:140][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.007666s)
+[2019.03.27-23.01.03:140][781]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.01.03:143][781]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-18.01.03
+[2019.03.27-23.01.03:143][781]LogWorld: Bringing up level for play took: 0.001542
+[2019.03.27-23.01.03:148][781]LogLoad: Took 0.088098 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.01.03:150][781]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.02.03:042][670]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.02.03:043][670]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.02.06:067][864]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.02.06:069][864]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.02.06:131][864]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.02.06:137][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005852s)
+[2019.03.27-23.02.06:138][864]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.02.06:138][864]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2019.03.27-23.02.06:138][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.007175s)
+[2019.03.27-23.02.06:138][864]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.02.06:140][864]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-18.02.06
+[2019.03.27-23.02.06:141][864]LogWorld: Bringing up level for play took: 0.001194
+[2019.03.27-23.02.06:145][864]LogLoad: Took 0.075206 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.02.06:146][864]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.02.38:699][959]LogHttp: Warning: 0000023A3F3F9E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-23.02.38:699][959]LogHttp: Warning: 0000023A3F3F9E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-23.02.38:699][959]LogHttp: Warning: 0000023A3F3F9E40: libcurl info message cache 1 (Closing connection 18)
+[2019.03.27-23.03.06:063][718]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.03.06:063][718]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.03.09:080][914]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.03.09:082][914]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.03.09:147][914]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.03.09:153][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005607s)
+[2019.03.27-23.03.09:154][914]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.03.09:154][914]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2019.03.27-23.03.09:154][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.006884s)
+[2019.03.27-23.03.09:154][914]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.03.09:156][914]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-18.03.09
+[2019.03.27-23.03.09:156][914]LogWorld: Bringing up level for play took: 0.001190
+[2019.03.27-23.03.09:161][914]LogLoad: Took 0.078124 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.03.09:163][914]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.04.09:067][829]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.04.09:067][829]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.04.12:103][ 28]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.04.12:107][ 28]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.04.12:163][ 28]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.04.12:169][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005650s)
+[2019.03.27-23.04.12:169][ 28]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.04.12:170][ 28]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2019.03.27-23.04.12:170][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.007031s)
+[2019.03.27-23.04.12:170][ 28]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.04.12:172][ 28]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-18.04.12
+[2019.03.27-23.04.12:172][ 28]LogWorld: Bringing up level for play took: 0.001180
+[2019.03.27-23.04.12:176][ 28]LogLoad: Took 0.068809 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.04.12:178][ 28]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.04.38:748][743]LogHttp: Warning: 0000023A22233100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-23.04.38:748][743]LogHttp: Warning: 0000023A22233100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-23.04.38:748][743]LogHttp: Warning: 0000023A22233100: libcurl info message cache 1 (Closing connection 19)
+[2019.03.27-23.05.12:088][900]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.05.12:088][900]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.05.15:120][ 77]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.05.15:125][ 77]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.05.15:186][ 77]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.05.15:192][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005907s)
+[2019.03.27-23.05.15:193][ 77]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.05.15:193][ 77]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2019.03.27-23.05.15:194][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.007221s)
+[2019.03.27-23.05.15:194][ 77]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.05.15:196][ 77]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-18.05.15
+[2019.03.27-23.05.15:196][ 77]LogWorld: Bringing up level for play took: 0.001236
+[2019.03.27-23.05.15:200][ 77]LogLoad: Took 0.075385 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.05.15:202][ 77]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.06.15:110][862]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.06.15:110][862]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.06.18:137][ 59]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.06.18:139][ 59]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.06.18:204][ 59]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.06.18:209][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005566s)
+[2019.03.27-23.06.18:210][ 59]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.06.18:211][ 59]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2019.03.27-23.06.18:211][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.006959s)
+[2019.03.27-23.06.18:211][ 59]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.06.18:213][ 59]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-18.06.18
+[2019.03.27-23.06.18:213][ 59]LogWorld: Bringing up level for play took: 0.001235
+[2019.03.27-23.06.18:217][ 59]LogLoad: Took 0.078441 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.06.18:219][ 59]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.06.38:788][385]LogHttp: Warning: 0000023A06BD1580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-23.06.38:788][385]LogHttp: Warning: 0000023A06BD1580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-23.06.38:788][385]LogHttp: Warning: 0000023A06BD1580: libcurl info message cache 1 (Closing connection 20)
+[2019.03.27-23.07.18:123][960]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.07.18:123][960]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.07.21:143][156]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.07.21:147][156]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.07.21:209][156]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.07.21:215][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005265s)
+[2019.03.27-23.07.21:216][156]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.07.21:216][156]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2019.03.27-23.07.21:216][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.006610s)
+[2019.03.27-23.07.21:217][156]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.07.21:219][156]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 0) at 2019.03.27-18.07.21
+[2019.03.27-23.07.21:219][156]LogWorld: Bringing up level for play took: 0.001236
+[2019.03.27-23.07.21:223][156]LogLoad: Took 0.075219 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.07.21:225][156]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.08.21:138][759]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.08.21:138][759]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.08.24:154][940]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.08.24:154][940]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.08.24:203][940]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.08.24:207][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004296s)
+[2019.03.27-23.08.24:208][940]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.08.24:208][940]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2019.03.27-23.08.24:208][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005378s)
+[2019.03.27-23.08.24:208][940]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.08.24:210][940]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.03.27-18.08.24
+[2019.03.27-23.08.24:210][940]LogWorld: Bringing up level for play took: 0.000971
+[2019.03.27-23.08.24:214][940]LogLoad: Took 0.059786 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.08.24:215][940]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.08.38:813][807]LogHttp: Warning: 0000023A0302EAC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-23.08.38:813][807]LogHttp: Warning: 0000023A0302EAC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-23.08.38:813][807]LogHttp: Warning: 0000023A0302EAC0: libcurl info message cache 1 (Closing connection 21)
+[2019.03.27-23.09.24:140][522]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.09.24:140][522]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.09.27:157][703]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.09.27:157][703]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.09.27:205][703]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.09.27:210][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004639s)
+[2019.03.27-23.09.27:211][703]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.09.27:211][703]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2019.03.27-23.09.27:211][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.006000s)
+[2019.03.27-23.09.27:211][703]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.09.27:213][703]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.03.27-18.09.27
+[2019.03.27-23.09.27:213][703]LogWorld: Bringing up level for play took: 0.001010
+[2019.03.27-23.09.27:217][703]LogLoad: Took 0.059205 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.09.27:219][703]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.10.27:158][286]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.10.27:158][286]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.10.30:174][467]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.10.30:175][467]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.10.30:225][467]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.10.30:229][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004252s)
+[2019.03.27-23.10.30:230][467]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.10.30:230][467]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2019.03.27-23.10.30:230][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005445s)
+[2019.03.27-23.10.30:231][467]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.10.30:232][467]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.03.27-18.10.30
+[2019.03.27-23.10.30:233][467]LogWorld: Bringing up level for play took: 0.001075
+[2019.03.27-23.10.30:236][467]LogLoad: Took 0.061390 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.10.30:238][467]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.10.38:833][976]LogHttp: Warning: 0000023A1E48C180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-23.10.38:833][976]LogHttp: Warning: 0000023A1E48C180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-23.10.38:833][976]LogHttp: Warning: 0000023A1E48C180: libcurl info message cache 1 (Closing connection 22)
+[2019.03.27-23.11.30:171][ 49]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.11.30:171][ 49]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.11.33:193][230]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.11.33:194][230]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.11.33:249][230]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.11.33:253][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004588s)
+[2019.03.27-23.11.33:254][230]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.11.33:255][230]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2019.03.27-23.11.33:255][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005901s)
+[2019.03.27-23.11.33:255][230]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.11.33:256][230]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.03.27-18.11.33
+[2019.03.27-23.11.33:257][230]LogWorld: Bringing up level for play took: 0.001052
+[2019.03.27-23.11.33:260][230]LogLoad: Took 0.066167 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.11.33:262][230]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.12.33:183][809]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.12.33:183][809]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.12.36:199][990]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.12.36:199][990]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.12.36:253][990]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.12.36:257][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004457s)
+[2019.03.27-23.12.36:258][990]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.12.36:258][990]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2019.03.27-23.12.36:258][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005598s)
+[2019.03.27-23.12.36:259][990]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.12.36:260][990]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.03.27-18.12.36
+[2019.03.27-23.12.36:260][990]LogWorld: Bringing up level for play took: 0.001005
+[2019.03.27-23.12.36:264][990]LogLoad: Took 0.064758 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.12.36:265][990]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.12.38:882][143]LogHttp: Warning: 0000023A07B49580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-23.12.38:882][143]LogHttp: Warning: 0000023A07B49580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-23.12.38:882][143]LogHttp: Warning: 0000023A07B49580: libcurl info message cache 1 (Closing connection 23)
+[2019.03.27-23.13.36:193][575]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.13.36:193][575]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.13.39:215][756]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.13.39:216][756]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.13.39:271][756]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.13.39:276][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004592s)
+[2019.03.27-23.13.39:277][756]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.13.39:277][756]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2019.03.27-23.13.39:277][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005702s)
+[2019.03.27-23.13.39:277][756]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.13.39:279][756]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.03.27-18.13.39
+[2019.03.27-23.13.39:279][756]LogWorld: Bringing up level for play took: 0.001050
+[2019.03.27-23.13.39:282][756]LogLoad: Took 0.066756 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.13.39:284][756]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.14.38:909][323]LogHttp: Warning: 0000023A22020540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-23.14.38:909][323]LogHttp: Warning: 0000023A22020540: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-23.14.38:909][323]LogHttp: Warning: 0000023A22020540: libcurl info message cache 1 (Closing connection 24)
+[2019.03.27-23.14.39:213][341]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.14.39:213][341]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.14.42:231][522]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.14.42:232][522]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.14.42:285][522]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.14.42:290][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004486s)
+[2019.03.27-23.14.42:291][522]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.14.42:291][522]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2019.03.27-23.14.42:291][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005687s)
+[2019.03.27-23.14.42:291][522]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.14.42:293][522]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.03.27-18.14.42
+[2019.03.27-23.14.42:293][522]LogWorld: Bringing up level for play took: 0.001066
+[2019.03.27-23.14.42:297][522]LogLoad: Took 0.064524 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.14.42:298][522]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.15.42:225][107]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.15.42:226][107]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.15.45:243][288]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.15.45:243][288]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.15.45:289][288]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.15.45:294][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004594s)
+[2019.03.27-23.15.45:295][288]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.15.45:295][288]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2019.03.27-23.15.45:295][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005771s)
+[2019.03.27-23.15.45:295][288]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.15.45:297][288]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.03.27-18.15.45
+[2019.03.27-23.15.45:298][288]LogWorld: Bringing up level for play took: 0.001153
+[2019.03.27-23.15.45:301][288]LogLoad: Took 0.057947 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.15.45:303][288]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.16.38:942][480]LogHttp: Warning: 0000023A1E48D6C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.27-23.16.38:942][480]LogHttp: Warning: 0000023A1E48D6C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.27-23.16.38:942][480]LogHttp: Warning: 0000023A1E48D6C0: libcurl info message cache 1 (Closing connection 25)
+[2019.03.27-23.16.45:235][857]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.16.45:236][857]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.16.48:253][ 35]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.16.48:253][ 35]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.16.48:300][ 35]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.16.48:305][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004445s)
+[2019.03.27-23.16.48:305][ 35]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.16.48:306][ 35]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2019.03.27-23.16.48:306][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005498s)
+[2019.03.27-23.16.48:306][ 35]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.16.48:308][ 35]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.03.27-18.16.48
+[2019.03.27-23.16.48:308][ 35]LogWorld: Bringing up level for play took: 0.001043
+[2019.03.27-23.16.48:311][ 35]LogLoad: Took 0.057659 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.16.48:313][ 35]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.17.48:240][590]LogBlueprintUserMessages: [CSGC_Map_C_4] TIME IS UP
+[2019.03.27-23.17.48:240][590]LogBlueprintUserMessages: [CSGC_Map_C_4] RESTARTING LEVEL
+[2019.03.27-23.17.51:258][771]LogNet: Browse: /Game/CSGC_Map
+[2019.03.27-23.17.51:258][771]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.03.27-23.17.51:308][771]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.03.27-23.17.51:313][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004478s)
+[2019.03.27-23.17.51:314][771]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.03.27-23.17.51:314][771]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2019.03.27-23.17.51:314][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005621s)
+[2019.03.27-23.17.51:314][771]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.27-23.17.51:315][771]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.03.27-18.17.51
+[2019.03.27-23.17.51:316][771]LogWorld: Bringing up level for play took: 0.001015
+[2019.03.27-23.17.51:319][771]LogLoad: Took 0.060764 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.03.27-23.17.51:321][771]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.03.27-23.18.03:333][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-23.18.03:334][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-23.18.03:380][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-23.18.03:380][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.03.27-23.18.03:421][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-23.18.03:448][488]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.03.27-23.18.03:955][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-23.18.05:380][511]LogSlate: Window 'Save Content' being destroyed
+[2019.03.27-23.18.05:458][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-23.18.05:626][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CSGC_Map" FILE="../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/CSGC_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.27-23.18.05:964][511]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/CSGC_Map006E69374C737B7628B855A692508120.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/CSGC_Map.umap'
+[2019.03.27-23.18.05:998][511]LogFileHelpers: Saving map 'CSGC_Map' took 0.532
+[2019.03.27-23.18.06:003][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Spline" FILE="../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/FirstPersonBP/Blueprints/Spline.uasset" SILENT=true
+[2019.03.27-23.18.06:034][511]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Spline4DB84BF343049E21067C4EBE722B6EFB.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/FirstPersonBP/Blueprints/Spline.uasset'
+[2019.03.27-23.18.06:578][511]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.27-23.18.06:645][511]LogSlate: Window 'CSGC - Unreal Editor' being destroyed
+[2019.03.27-23.18.07:288][512]Cmd: QUIT_EDITOR
+[2019.03.27-23.18.08:713][512]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-23.18.09:095][512]LogExit: Preparing to exit.
+[2019.03.27-23.18.12:837][512]LogExit: Editor shut down
+[2019.03.27-23.18.12:838][512]LogExit: Transaction tracking system shut down

@@ -1,0 +1,1554 @@
+﻿Log file open, 04/03/19 12:47:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CSGC
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.825566
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.991s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.03-17.48.11:441][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-17.48.11:442][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.03-17.48.11:617][  0]LogHAL: Display: Platform has ~ 8 GB [8502808576 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.03-17.48.11:628][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.03-17.48.11:637][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.03-17.48.11:719][  0]LogInit: Computer: LAPTOP-8MM05LH4
+[2019.04.03-17.48.11:719][  0]LogInit: User: danie
+[2019.04.03-17.48.11:719][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.03-17.48.11:719][  0]LogInit: High frequency timer resolution =1.757813 MHz
+[2019.04.03-17.48.11:719][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.03-17.48.11:720][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.03-17.48.11:720][  0]LogMemory: Process Physical Memory: 100.70 MB used, 100.70 MB peak
+[2019.04.03-17.48.11:720][  0]LogMemory: Process Virtual Memory: 97.54 MB used, 97.54 MB peak
+[2019.04.03-17.48.11:720][  0]LogMemory: Physical Memory: 5281.34 MB used,  2827.57 MB free, 8108.91 MB total
+[2019.04.03-17.48.11:720][  0]LogMemory: Virtual Memory: 4650.53 MB used,  2827.57 MB free, 134217728.00 MB total
+[2019.04.03-17.48.14:796][  0]LogInit: Using OS detected language (en-US).
+[2019.04.03-17.48.14:796][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.03-17.48.14:883][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.03-17.48.18:356][  0]LogStreaming: Display: Took  3.501s to InitEngineTextLocalization.
+[2019.04.03-17.48.18:371][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.03-17.48.19:330][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.03-17.48.19:330][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.03-17.48.54:033][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-17.48.54:033][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.03-17.48.54:076][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.04.03-17.48.54:076][  0]LogD3D11RHI:       128/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.04.03-17.48.54:079][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.03-17.48.54:080][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.03-17.48.54:080][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.03-17.48.54:093][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.03-17.48.54:093][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.03-17.48.54:188][  0]LogWindows: EnumDisplayDevices:
+[2019.04.03-17.48.54:189][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.04.03-17.48.54:190][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.04.03-17.48.54:192][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.04.03-17.48.54:193][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.04.03-17.48.54:193][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.04.03-17.48.54:193][  0]LogD3D11RHI:   Driver Version: 22.20.16.4815 (internal:22.20.16.4815, unified:22.20.16.4815)
+[2019.04.03-17.48.54:193][  0]LogD3D11RHI:      Driver Date: 9-26-2017
+[2019.04.03-17.48.54:193][  0]LogRHI: Texture pool is 1508 MB (70% of 2155 MB)
+[2019.04.03-17.48.54:235][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.03-17.48.54:816][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.04.03-17.48.55:197][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Intermediate/Shaders/WorkingDirectory/12508/).
+[2019.04.03-17.48.55:197][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danie/AppData/Local/Temp/UnrealShaderWorkingDir/B7FABBB24748107D04F444ABDB4ABFD3/'.
+[2019.04.03-17.49.00:900][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.03-17.49.00:950][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.03-17.49.00:987][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.03-17.49.01:038][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.03-17.49.01:099][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.03-17.49.01:142][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.03-17.49.01:175][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.03-17.49.01:207][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.03-17.49.01:224][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-17.49.01:555][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.03-17.49.01:798][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.03-17.49.01:798][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.03-17.49.01:889][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.03-17.49.01:891][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.03-17.49.01:928][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.03-17.49.01:992][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.03-17.49.02:055][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.03-17.49.02:149][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.03-17.49.02:199][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.03-17.49.02:199][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.03-17.49.03:745][  0]LogXGEController: Cleaning working directory: C:/Users/danie/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.03-17.49.03:746][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.03-17.49.03:746][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.03-17.49.03:746][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.03-17.49.10:809][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.03-17.49.11:473][  0]LogDerivedDataCache: Loaded boot cache 0.65s 71MB C:/Users/danie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.03-17.49.11:474][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/danie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.03-17.49.11:474][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/danie/Documents/Unreal Projects/CSGC/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.03-17.49.11:474][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.03-17.49.11:474][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/danie/Documents/Unreal Projects/CSGC/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.03-17.49.11:474][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.03-17.49.11:735][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.03-17.49.11:773][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.03-17.49.11:773][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.03-17.49.11:773][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.03-17.49.11:884][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.03-17.49.12:017][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.03-17.49.12:158][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.03-17.49.13:842][  0]LogAssetRegistry: FAssetRegistry took 0.0436 seconds to start up
+[2019.04.03-17.49.16:938][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-17.49.32:784][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.03-17.49.33:246][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.03-17.49.33:246][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.03-17.49.33:247][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.03-17.49.33:247][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.03-17.49.35:509][  0]LogNetVersion: CSGC 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4023825393)
+[2019.04.03-17.49.51:601][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.389089 seconds
+[2019.04.03-17.49.51:646][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.04.03-17.49.51:646][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.04.03-17.49.51:646][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.03-17.52.01:355][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.03-17.52.01:408][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.03-17.52.11:116][  0]SourceControl: Source control is disabled
+[2019.04.03-17.52.11:134][  0]SourceControl: Source control is disabled
+[2019.04.03-17.52.11:281][  0]SourceControl: Source control is disabled
+[2019.04.03-17.52.11:316][  0]SourceControl: Source control is disabled
+[2019.04.03-17.52.14:072][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.03-17.52.14:328][  0]LogOcInput: OculusInput pre-init called
+[2019.04.03-17.52.15:752][  0]LogEngine: Initializing Engine...
+[2019.04.03-17.52.15:806][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-17.52.15:877][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2019.04.03-17.52.15:877][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-17.52.15:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.04.03-17.52.15:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-17.52.18:268][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.03-17.52.19:210][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.03-17.52.19:596][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-17.52.19:867][  0]LogInit: FAudioDevice initialized.
+[2019.04.03-17.52.19:868][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.03-17.52.20:143][  0]LogDerivedDataCache: Saved boot cache 0.27s 71MB C:/Users/danie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.03-17.52.20:163][  0]LogInit: Texture streaming: Enabled
+[2019.04.03-17.52.21:001][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.03-17.52.21:709][  0]LogInit: Transaction tracking system initialized
+[2019.04.03-17.52.22:308][  0]BlueprintLog: New page: Editor Load
+[2019.04.03-17.52.31:972][  0]LocalizationService: Localization service is disabled
+[2019.04.03-17.52.52:455][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Documents/Unreal Projects/CSGC/Content/' took 0.09s
+[2019.04.03-17.52.52:455][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.03-17.52.52:467][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.03-17.52.52:553][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.03-17.52.52:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.03-17.52.52:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-17.52.52:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.03-17.52.52:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-17.52.57:701][  0]SourceControl: Source control is disabled
+[2019.04.03-17.52.57:763][  0]Cmd: MAP LOAD FILE="../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/CSGC_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.03-17.52.57:788][  0]LightingResults: New page: Lighting Build
+[2019.04.03-17.52.58:152][  0]MapCheck: New page: Map Check
+[2019.04.03-17.52.58:152][  0]LightingResults: New page: Lighting Build
+[2019.04.03-17.53.05:219][  0]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.04.03-17.53.06:277][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.03-17.53.06:526][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.03-17.53.06:702][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 176.196ms to complete.
+[2019.04.03-17.53.06:702][  0]LogFileHelpers: Loading map 'CSGC_Map' took 8.979
+[2019.04.03-17.53.15:385][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-17.53.15:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-17.53.15:542][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-17.53.15:549][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-17.53.15:965][  0]LogCollectionManager: Loaded 0 collections in 0.022150 seconds
+[2019.04.03-17.53.16:247][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Documents/Unreal Projects/CSGC/Saved/Collections/' took 0.01s
+[2019.04.03-17.53.16:247][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Documents/Unreal Projects/CSGC/Content/Developers/danie/Collections/' took 0.01s
+[2019.04.03-17.53.16:247][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Documents/Unreal Projects/CSGC/Content/Collections/' took 0.01s
+[2019.04.03-17.53.16:247][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.03-17.53.16:275][  0]LogContentBrowser: Native class hierarchy populated in 0.0225 seconds. Added 2572 classes and 603 folders.
+[2019.04.03-17.53.16:580][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.03-17.53.27:329][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.03-17.53.27:417][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.04.03-17.53.29:574][  0]LogSlate: Took 0.019193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.03-17.53.29:636][  0]LogSlate: Took 0.032876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.03-17.53.29:776][  0]LogSlate: Took 0.018974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.03-17.53.30:943][  0]LogRenderer: Reallocating scene render targets to support 876x384 Format 9 NumSamples 1 (Frame:1).
+[2019.04.03-17.53.37:257][  0]LogSlate: Took 0.134169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.03-17.53.39:238][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.03-17.53.39:238][  0]LogLoad: (Engine Initialization) Total time: 458.80 seconds
+[2019.04.03-17.53.39:238][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.03-17.53.40:187][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.04.03-17.53.42:698][  2]LogSlate: Took 0.000797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.03-17.53.43:905][  5]LogAssetRegistry: Asset discovery search completed in 270.0868 seconds
+[2019.04.03-17.53.43:943][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.03-17.53.43:943][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.032135 seconds (updated 0 objects)
+[2019.04.03-17.55.10:067][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-17.59.02:075][329]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.04.03-17.59.04:550][329]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 116 classes and 0 folders.
+[2019.04.03-17.59.09:809][329]LogSlate: Took 0.024441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.03-17.59.41:665][491]LogSlate: Took 0.060984 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.03-18.02.15:995][660]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.04.03-18.02.18:590][749]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-18.02.18:654][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.02.18:676][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-18.02.18:884][749]PIE: New page: PIE session: CSGC_Map (Apr 3, 2019, 8:02:18 AM)
+[2019.04.03-18.02.18:885][749]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.04.03-18.02.18:967][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081919s)
+[2019.04.03-18.02.18:969][749]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.04.03-18.02.18:970][749]LogPlayLevel: PIE: World Init took: (0.002765s)
+[2019.04.03-18.02.18:970][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.085140s)
+[2019.04.03-18.02.19:066][749]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-18.02.19:101][749]LogInit: FAudioDevice initialized.
+[2019.04.03-18.02.19:109][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.02.19:335][749]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.03-18.02.19:394][749]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.04.03-13.02.19
+[2019.04.03-18.02.19:432][749]LogWorld: Bringing up level for play took: 0.041240
+[2019.04.03-18.02.19:575][749]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 10 classes and 0 folders.
+[2019.04.03-18.02.19:929][749]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 2.12
+[2019.04.03-18.02.19:952][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.02.20:077][749]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.04.03-18.02.20:181][749]LogRenderer: Reallocating scene render targets to support 916x536 Format 9 NumSamples 1 (Frame:1).
+[2019.04.03-18.02.31:635][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.02.31:657][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.02.31:711][258]LogSlate: Window 'CSGC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.03-18.02.31:838][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-18.02.31:838][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.02.32:104][259]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.04.03-18.02.34:111][379]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.04.03-18.02.39:002][526]LogSlate: Window 'Save Content' being destroyed
+[2019.04.03-18.02.39:670][526]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/FirstPersonCharacter762A652C4CC9100BD5BEA0B7A3833DDA.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.04.03-18.03.19:692][850]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map
+[2019.04.03-18.04.16:840][206]BlueprintLog: New page: Compile CSGC_Map
+[2019.04.03-18.04.16:889][206]LogBlueprint: Error: [Compiler PersistentLevel.CSGC_Map] Event BeginPlay  Signature Error: The selected function/event is not bindable - is the function/event pure or latent?
+[2019.04.03-18.04.17:099][206]LogBlueprint: Warning: [Compiler PersistentLevel.CSGC_Map] [1096.66] Compile of PersistentLevel.CSGC_Map failed. 1 Fatal Issue(s) 0 Warning(s) [in 258 ms] (/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map)
+[2019.04.03-18.04.33:251][173]BlueprintLog: New page: Compile CSGC_Map
+[2019.04.03-18.04.33:262][173]LogBlueprint: Error: [Compiler PersistentLevel.CSGC_Map] Event BeginPlay  Signature Error: The selected function/event is not bindable - is the function/event pure or latent?
+[2019.04.03-18.04.33:403][173]LogBlueprint: Warning: [Compiler PersistentLevel.CSGC_Map] [1112.96] Compile of PersistentLevel.CSGC_Map failed. 1 Fatal Issue(s) 0 Warning(s) [in 153 ms] (/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map)
+[2019.04.03-18.04.51:122][234]BlueprintLog: New page: Compile CSGC_Map
+[2019.04.03-18.05.28:231][412]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/HUD.HUD
+[2019.04.03-18.06.12:179][889]BlueprintLog: New page: Compile HUD
+[2019.04.03-18.06.37:071][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CSGC_Map" FILE="../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/CSGC_Map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.03-18.06.37:396][988]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/CSGC_Map_Auto19E1121F24790605AA3C1E6BF30088D67.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/CSGC_Map_Auto1.umap'
+[2019.04.03-18.06.37:404][988]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CSGC_Map' took 0.496
+[2019.04.03-18.06.37:404][988]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.496
+[2019.04.03-18.06.37:458][988]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/HUD] ([1] browsable assets)...
+[2019.04.03-18.06.37:458][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/HUD]
+[2019.04.03-18.06.37:504][988]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/HUD_Auto1600BEAC14A035547EC9E0B953953C4E2.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/FirstPersonBP/Blueprints/HUD_Auto1.uasset'
+[2019.04.03-18.06.37:537][988]LogFileHelpers: Auto-saving content packages took 0.131
+[2019.04.03-18.11.25:611][146]BlueprintLog: New page: Compile HUD
+[2019.04.03-18.13.03:610][923]BlueprintLog: New page: Compile CSGC_Map
+[2019.04.03-18.14.11:821][919]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-18.14.11:848][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.14.11:848][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-18.14.11:848][919]PIE: New page: PIE session: CSGC_Map (Apr 3, 2019, 8:14:11 AM)
+[2019.04.03-18.14.11:848][919]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.04.03-18.14.11:852][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003875s)
+[2019.04.03-18.14.11:853][919]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.04.03-18.14.11:853][919]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2019.04.03-18.14.11:853][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.004881s)
+[2019.04.03-18.14.11:932][919]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-18.14.11:970][919]LogInit: FAudioDevice initialized.
+[2019.04.03-18.14.11:985][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.14.12:026][919]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.03-18.14.12:027][919]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.04.03-13.14.12
+[2019.04.03-18.14.12:028][919]LogWorld: Bringing up level for play took: 0.001283
+[2019.04.03-18.14.12:045][919]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (CSGC_Map_C_4)
+[2019.04.03-18.14.12:047][919]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 0.238
+[2019.04.03-18.14.12:066][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.14.12:069][919]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.04.03-18.14.21:187][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.14.21:187][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.14.21:224][300]LogSlate: Window 'CSGC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.03-18.14.21:273][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-18.14.21:273][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.14.21:399][301]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.03-18.16.47:437][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CSGC_Map" FILE="../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/CSGC_Map_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.03-18.16.47:664][ 48]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/CSGC_Map_Auto258D2655542F79575DB75BEAC9A4C9ECF.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/CSGC_Map_Auto2.umap'
+[2019.04.03-18.16.47:672][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CSGC_Map' took 0.297
+[2019.04.03-18.16.47:672][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.297
+[2019.04.03-18.16.47:676][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/HUD] ([1] browsable assets)...
+[2019.04.03-18.16.47:676][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/HUD]
+[2019.04.03-18.16.47:710][ 48]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/HUD_Auto2DBAE2277464CFB0C0C84C4A22DA9D65A.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/Autosaves/Game/FirstPersonBP/Blueprints/HUD_Auto2.uasset'
+[2019.04.03-18.16.47:712][ 48]LogFileHelpers: Auto-saving content packages took 0.038
+[2019.04.03-18.20.28:432][547]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Subtract_FloatFloat' [Element not found.]
+[2019.04.03-18.22.19:467][142]BlueprintLog: New page: Compile CSGC_Map
+[2019.04.03-18.22.21:019][224]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-18.22.21:044][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.22.21:044][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-18.22.21:044][224]PIE: New page: PIE session: CSGC_Map (Apr 3, 2019, 8:22:21 AM)
+[2019.04.03-18.22.21:044][224]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.04.03-18.22.21:048][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003851s)
+[2019.04.03-18.22.21:049][224]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.04.03-18.22.21:049][224]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2019.04.03-18.22.21:049][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.004738s)
+[2019.04.03-18.22.21:079][224]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-18.22.21:096][224]LogInit: FAudioDevice initialized.
+[2019.04.03-18.22.21:106][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.22.21:139][224]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.03-18.22.21:141][224]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.04.03-13.22.21
+[2019.04.03-18.22.21:141][224]LogWorld: Bringing up level for play took: 0.001044
+[2019.04.03-18.22.21:158][224]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map -0.651
+[2019.04.03-18.22.21:159][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.22.21:160][224]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.04.03-18.22.26:111][445]LogNet: Browse: /Game/CSGC_Map
+[2019.04.03-18.22.26:122][445]LogLoad: LoadMap: /Game/CSGC_Map
+[2019.04.03-18.22.26:282][445]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.04.03-18.22.26:287][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004927s)
+[2019.04.03-18.22.26:288][445]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.04.03-18.22.26:288][445]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2019.04.03-18.22.26:288][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005954s)
+[2019.04.03-18.22.26:288][445]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.03-18.22.26:290][445]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.04.03-13.22.26
+[2019.04.03-18.22.26:290][445]LogWorld: Bringing up level for play took: 0.001050
+[2019.04.03-18.22.26:316][445]LogLoad: Took 0.194366 seconds to LoadMap(/Game/UEDPIE_0_CSGC_Map)
+[2019.04.03-18.22.26:331][445]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.04.03-18.22.27:273][486]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.22.27:273][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.22.27:305][486]LogSlate: Window 'CSGC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.03-18.22.27:354][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-18.22.27:355][486]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.22.27:450][487]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.03-18.23.00:026][410]BlueprintLog: New page: Compile CSGC_Map
+[2019.04.03-18.27.35:491][118]LogSlate: Took 0.723840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.03-18.27.48:885][880]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.04.03-18.28.49:143][387]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.04.03-18.29.20:937][239]BlueprintLog: New page: Compile HUD
+[2019.04.03-18.29.21:035][239]LogBlueprint: Warning: [Compiler HUD] 'First Person Character' does not inherit from 'Player Controller' ( Cast To FirstPersonCharacter  would always fail).
+[2019.04.03-18.29.21:119][239]LogBlueprint: Warning: [Compiler HUD] [2600.68] Compile of HUD successful, but with 1 Warning(s) [in 181 ms] (/Game/FirstPersonBP/Blueprints/HUD.HUD)
+[2019.04.03-18.29.38:493][269]BlueprintLog: New page: Compile HUD
+[2019.04.03-18.29.38:504][269]LogBlueprint: Warning: [Compiler HUD] 'First Person Character' does not inherit from 'Controller' ( Cast To FirstPersonCharacter  would always fail).
+[2019.04.03-18.29.38:525][269]LogBlueprint: Error: [Compiler HUD] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2019.04.03-18.29.38:586][269]LogBlueprint: Warning: [Compiler HUD] [2618.15] Compile of HUD failed. 1 Fatal Issue(s) 1 Warning(s) [in 92 ms] (/Game/FirstPersonBP/Blueprints/HUD.HUD)
+[2019.04.03-18.29.55:591][251]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2019.04.03-18.30.27:646][113]BlueprintLog: New page: Compile FirstPersonHUD
+[2019.04.03-18.31.28:952][733]BlueprintLog: New page: Compile FirstPersonHUD
+[2019.04.03-18.31.58:921][959]BlueprintLog: New page: Compile HUD
+[2019.04.03-18.32.46:607][ 87]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.04.03-18.32.49:657][210]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.04.03-18.32.58:440][713]BlueprintLog: New page: Compile FirstPersonHUD
+[2019.04.03-18.33.25:399][289]BlueprintLog: New page: Compile FirstPersonGameMode
+[2019.04.03-18.34.29:606][ 77]BlueprintLog: New page: Compile FirstPersonGameMode
+[2019.04.03-18.34.39:445][640]BlueprintLog: New page: Compile HUD
+[2019.04.03-18.34.42:392][811]BlueprintLog: New page: Compile FirstPersonGameMode
+[2019.04.03-18.34.54:019][494]BlueprintLog: New page: Compile HUD
+[2019.04.03-18.34.57:110][653]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-18.34.57:153][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.34.57:154][653]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.03-18.34.57:159][653]LogPlayLevel: [PlayLevel] Compiling CSGC_Map before play...
+[2019.04.03-18.34.57:322][653]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2019.04.03-18.34.57:322][653]PIE: New page: PIE session: CSGC_Map (Apr 3, 2019, 8:34:57 AM)
+[2019.04.03-18.34.57:322][653]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.04.03-18.34.57:326][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003564s)
+[2019.04.03-18.34.57:327][653]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.04.03-18.34.57:327][653]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2019.04.03-18.34.57:327][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.004498s)
+[2019.04.03-18.34.57:371][653]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-18.34.57:392][653]LogInit: FAudioDevice initialized.
+[2019.04.03-18.34.57:491][653]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.03-18.34.57:496][653]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.04.03-13.34.57
+[2019.04.03-18.34.57:497][653]LogWorld: Bringing up level for play took: 0.003285
+[2019.04.03-18.34.57:521][653]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map -0.288
+[2019.04.03-18.34.57:521][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.34.57:563][653]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.04.03-18.35.01:467][844]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.35.01:467][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.35.01:552][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-18.35.01:553][844]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.35.01:607][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.35.01:768][845]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.04.03-18.35.04:316][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-18.35.18:576][734]BlueprintLog: New page: Compile HUD
+[2019.04.03-18.35.21:083][853]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-18.35.21:171][853]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.35.21:171][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-18.35.21:172][853]PIE: New page: PIE session: CSGC_Map (Apr 3, 2019, 8:35:21 AM)
+[2019.04.03-18.35.21:172][853]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.04.03-18.35.21:180][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007578s)
+[2019.04.03-18.35.21:182][853]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.04.03-18.35.21:182][853]LogPlayLevel: PIE: World Init took: (0.002252s)
+[2019.04.03-18.35.21:182][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.010073s)
+[2019.04.03-18.35.21:229][853]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-18.35.21:245][853]LogInit: FAudioDevice initialized.
+[2019.04.03-18.35.21:278][853]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.03-18.35.21:280][853]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.04.03-13.35.21
+[2019.04.03-18.35.21:281][853]LogWorld: Bringing up level for play took: 0.001470
+[2019.04.03-18.35.21:300][853]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map -0.509
+[2019.04.03-18.35.21:300][853]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.35.21:428][853]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.04.03-18.35.29:175][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.35.29:175][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.35.29:219][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-18.35.29:219][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.35.29:259][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.35.29:283][313]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.04.03-18.35.31:263][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-18.35.39:542][888]BlueprintLog: New page: Compile FirstPersonGameMode
+[2019.04.03-18.35.41:865][993]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-18.35.41:904][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.35.41:904][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-18.35.41:904][993]PIE: New page: PIE session: CSGC_Map (Apr 3, 2019, 8:35:41 AM)
+[2019.04.03-18.35.41:904][993]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.04.03-18.35.41:908][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003742s)
+[2019.04.03-18.35.41:909][993]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.04.03-18.35.41:909][993]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2019.04.03-18.35.41:909][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.004594s)
+[2019.04.03-18.35.41:944][993]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-18.35.41:961][993]LogInit: FAudioDevice initialized.
+[2019.04.03-18.35.42:000][993]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.03-18.35.42:003][993]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.04.03-13.35.42
+[2019.04.03-18.35.42:004][993]LogWorld: Bringing up level for play took: 0.001646
+[2019.04.03-18.35.42:021][993]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 0.212
+[2019.04.03-18.35.42:022][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.35.42:135][993]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.04.03-18.35.52:604][612]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:631][613]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:649][614]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:666][615]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:682][616]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:698][617]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:715][618]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:731][619]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:748][620]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:765][621]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:781][622]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:798][623]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:816][624]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:832][625]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:850][626]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:866][627]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:883][628]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:900][629]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:917][630]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:934][631]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:950][632]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:965][633]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:983][634]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.52:999][635]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:016][636]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:035][637]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:049][638]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:067][639]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:084][640]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:100][641]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:117][642]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:133][643]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:150][644]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:167][645]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:182][646]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:199][647]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:215][648]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:232][649]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:249][650]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:266][651]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:282][652]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:300][653]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:317][654]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:334][655]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:349][656]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:367][657]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:383][658]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:400][659]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:416][660]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:433][661]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:450][662]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:467][663]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:485][664]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:501][665]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:517][666]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:534][667]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:550][668]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:568][669]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:584][670]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:599][671]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:616][672]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:633][673]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:649][674]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:666][675]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:683][676]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:700][677]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:717][678]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:735][679]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:752][680]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:767][681]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:785][682]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:802][683]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:818][684]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:835][685]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:851][686]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:868][687]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:885][688]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:902][689]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:918][690]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:934][691]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:951][692]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:968][693]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.53:985][694]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:001][695]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:018][696]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:034][697]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:050][698]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:067][699]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:084][700]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:100][701]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:118][702]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:133][703]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:151][704]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:168][705]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:184][706]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:201][707]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:217][708]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:234][709]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:251][710]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:268][711]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:284][712]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:300][713]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:317][714]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:334][715]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:352][716]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:368][717]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:385][718]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:402][719]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:417][720]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:436][721]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:451][722]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:467][723]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:485][724]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:500][725]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:518][726]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:535][727]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:551][728]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:568][729]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:584][730]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:600][731]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:617][732]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:634][733]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:650][734]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:668][735]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:684][736]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:699][737]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:716][738]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:734][739]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:751][740]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:766][741]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:783][742]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:800][743]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:818][744]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:834][745]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:850][746]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:867][747]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:883][748]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:900][749]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:917][750]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:934][751]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:950][752]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:967][753]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.54:984][754]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:000][755]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:017][756]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:034][757]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:050][758]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:067][759]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:083][760]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:100][761]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:117][762]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:133][763]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:151][764]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:167][765]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:184][766]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:200][767]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:217][768]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:234][769]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:250][770]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:267][771]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:284][772]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:300][773]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:317][774]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:334][775]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:351][776]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:369][777]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:384][778]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:401][779]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:418][780]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:434][781]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:451][782]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:468][783]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:484][784]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:501][785]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:519][786]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:536][787]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:552][788]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:569][789]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:585][790]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:601][791]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:618][792]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:635][793]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:651][794]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:667][795]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:684][796]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:702][797]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:718][798]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:735][799]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:752][800]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:768][801]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:784][802]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:801][803]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:817][804]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:834][805]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:851][806]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:868][807]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:885][808]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:901][809]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:918][810]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:935][811]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:952][812]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:968][813]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.55:986][814]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:002][815]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:019][816]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:035][817]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:053][818]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:069][819]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:085][820]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:102][821]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:118][822]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:135][823]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:151][824]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:168][825]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:184][826]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:201][827]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:217][828]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:234][829]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:251][830]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:268][831]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:284][832]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:301][833]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:318][834]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:335][835]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:352][836]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:368][837]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:386][838]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:402][839]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:419][840]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:435][841]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:451][842]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:468][843]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:485][844]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:502][845]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:518][846]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:536][847]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:553][848]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:569][849]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:586][850]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:601][851]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:618][852]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:635][853]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:652][854]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:669][855]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:685][856]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:701][857]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:719][858]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:736][859]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:753][860]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:769][861]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:786][862]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:802][863]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:820][864]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:835][865]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:853][866]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:869][867]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:885][868]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:903][869]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:919][870]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:935][871]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:951][872]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:968][873]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.56:985][874]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:002][875]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:019][876]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:037][877]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:053][878]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:070][879]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:086][880]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:102][881]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:119][882]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:134][883]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:151][884]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:168][885]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:185][886]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:202][887]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:218][888]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:235][889]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:252][890]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:268][891]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:285][892]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:301][893]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:318][894]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:335][895]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:351][896]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:368][897]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:385][898]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:401][899]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:418][900]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:434][901]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:451][902]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:468][903]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:485][904]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:502][905]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:519][906]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:534][907]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:551][908]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:569][909]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:585][910]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:601][911]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:618][912]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:635][913]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:651][914]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:668][915]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:685][916]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:702][917]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:719][918]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:736][919]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:753][920]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:769][921]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:786][922]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:803][923]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:820][924]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:836][925]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:853][926]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:870][927]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:887][928]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:903][929]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:920][930]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:936][931]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:952][932]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:968][933]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.57:985][934]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:001][935]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:018][936]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:035][937]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:052][938]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:068][939]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:085][940]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:102][941]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:118][942]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:135][943]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:152][944]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:168][945]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:185][946]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:202][947]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:218][948]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:235][949]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:252][950]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:270][951]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:285][952]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:301][953]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:318][954]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:335][955]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:351][956]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:368][957]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:386][958]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:405][959]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:419][960]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:438][961]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:453][962]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:470][963]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:488][964]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:505][965]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:519][966]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:536][967]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:552][968]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:569][969]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:586][970]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:604][971]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:619][972]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:636][973]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:652][974]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:668][975]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:685][976]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:702][977]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:718][978]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:735][979]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:751][980]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:768][981]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:785][982]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:803][983]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:819][984]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:836][985]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:852][986]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:869][987]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:886][988]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:903][989]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:920][990]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:936][991]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:953][992]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:969][993]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.58:985][994]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:002][995]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:019][996]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:035][997]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:053][998]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:070][999]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:085][  0]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:102][  1]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:119][  2]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:136][  3]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:153][  4]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:170][  5]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:186][  6]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:202][  7]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:219][  8]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:236][  9]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:252][ 10]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:270][ 11]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:287][ 12]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:304][ 13]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:320][ 14]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:337][ 15]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:354][ 16]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:370][ 17]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:388][ 18]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:404][ 19]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:421][ 20]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:437][ 21]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:452][ 22]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:470][ 23]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:487][ 24]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:505][ 25]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:520][ 26]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:537][ 27]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:554][ 28]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:571][ 29]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:587][ 30]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:604][ 31]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:621][ 32]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:638][ 33]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:654][ 34]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:671][ 35]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:688][ 36]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:702][ 37]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:720][ 38]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:736][ 39]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:752][ 40]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:770][ 41]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:786][ 42]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:804][ 43]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:819][ 44]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:837][ 45]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:853][ 46]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:871][ 47]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:887][ 48]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:904][ 49]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:921][ 50]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:938][ 51]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:956][ 52]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:971][ 53]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.35.59:988][ 54]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:006][ 55]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:022][ 56]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:039][ 57]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:056][ 58]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:070][ 59]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:088][ 60]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:104][ 61]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:121][ 62]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:138][ 63]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:154][ 64]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:171][ 65]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:188][ 66]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:206][ 67]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:223][ 68]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:238][ 69]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:256][ 70]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:273][ 71]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:288][ 72]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:305][ 73]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:321][ 74]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:338][ 75]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:354][ 76]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:371][ 77]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:388][ 78]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:405][ 79]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:422][ 80]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:439][ 81]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:455][ 82]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:470][ 83]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:488][ 84]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:506][ 85]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:522][ 86]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:539][ 87]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:555][ 88]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:571][ 89]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:588][ 90]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:604][ 91]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:621][ 92]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:638][ 93]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:655][ 94]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:671][ 95]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:688][ 96]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:706][ 97]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:723][ 98]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:739][ 99]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:757][100]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:772][101]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:789][102]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:806][103]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:822][104]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:839][105]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:856][106]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:872][107]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:888][108]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:905][109]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:922][110]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:938][111]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:956][112]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:972][113]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.00:989][114]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:005][115]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:022][116]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:038][117]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:055][118]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:072][119]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:089][120]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:105][121]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:122][122]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:138][123]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:155][124]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:172][125]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:189][126]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:206][127]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:223][128]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:239][129]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:256][130]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:273][131]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:289][132]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:306][133]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:323][134]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:339][135]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:355][136]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:372][137]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:388][138]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:405][139]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:422][140]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:438][141]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:455][142]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:473][143]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:490][144]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:505][145]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:523][146]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:539][147]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:556][148]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:572][149]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:588][150]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:605][151]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:621][152]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:638][153]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:655][154]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:672][155]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:690][156]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:705][157]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:722][158]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:739][159]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:755][160]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:772][161]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:789][162]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:806][163]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:823][164]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:838][165]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:856][166]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:975][167]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.01:987][168]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:005][169]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:021][170]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:037][171]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:053][172]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:070][173]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:087][174]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:104][175]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:121][176]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:137][177]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:155][178]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:171][179]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:188][180]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:204][181]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:220][182]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:239][183]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:255][184]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:271][185]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:287][186]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:304][187]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:322][188]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:337][189]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:354][190]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:371][191]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:388][192]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:405][193]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:421][194]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:438][195]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:454][196]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:472][197]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:488][198]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:504][199]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:521][200]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:537][201]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:554][202]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:570][203]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:587][204]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:604][205]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:620][206]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:637][207]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:654][208]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:670][209]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:687][210]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:705][211]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:722][212]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:737][213]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:755][214]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:771][215]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:788][216]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:804][217]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:821][218]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:837][219]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:854][220]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:870][221]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:887][222]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:903][223]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:920][224]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:937][225]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:954][226]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:970][227]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.02:987][228]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:004][229]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:020][230]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:038][231]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:055][232]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:070][233]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:088][234]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:105][235]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:121][236]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:138][237]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:154][238]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:170][239]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:186][240]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:204][241]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:221][242]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:236][243]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:253][244]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:270][245]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:287][246]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:304][247]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:321][248]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:336][249]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:353][250]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:370][251]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:387][252]LogBlueprintUserMessages: [CSGC_Map_C_8] YOU WIN!!!
+[2019.04.03-18.36.03:388][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.36.03:388][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.36.03:515][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-18.36.03:516][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.36.03:578][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.36.03:600][253]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.04.03-18.36.08:708][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-18.36.22:596][276]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-18.36.22:635][276]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.36.22:635][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-18.36.22:635][276]PIE: New page: PIE session: CSGC_Map (Apr 3, 2019, 8:36:22 AM)
+[2019.04.03-18.36.22:635][276]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CSGC_Map
+[2019.04.03-18.36.22:640][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004350s)
+[2019.04.03-18.36.22:640][276]LogAIModule: Creating AISystem for world CSGC_Map
+[2019.04.03-18.36.22:640][276]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2019.04.03-18.36.22:640][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CSGC_Map.CSGC_Map to /Game/UEDPIE_0_CSGC_Map.CSGC_Map (0.005249s)
+[2019.04.03-18.36.22:676][276]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-18.36.22:693][276]LogInit: FAudioDevice initialized.
+[2019.04.03-18.36.22:724][276]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.03-18.36.22:726][276]LogWorld: Bringing World /Game/UEDPIE_0_CSGC_Map.CSGC_Map up for play (max tick rate 60) at 2019.04.03-13.36.22
+[2019.04.03-18.36.22:727][276]LogWorld: Bringing up level for play took: 0.001570
+[2019.04.03-18.36.22:743][276]PIE: Play in editor start time for /Game/UEDPIE_0_CSGC_Map 0.935
+[2019.04.03-18.36.22:744][276]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.36.22:865][276]LogAudio: Warning: Detected orphaned looping sound 'Starter_Background_Cue'.
+[2019.04.03-18.36.27:539][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.36.27:539][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.36.27:582][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-18.36.27:582][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CSGC_Map.CSGC_Map:PersistentLevel' has LevelScriptBlueprint '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map' with GeneratedClass '/Game/CSGC_Map.CSGC_Map_C' with ClassGeneratedBy '/Game/CSGC_Map.CSGC_Map:PersistentLevel.CSGC_Map'
+[2019.04.03-18.36.27:615][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-18.36.27:636][554]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.04.03-18.36.33:423][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-18.36.35:177][826]LogSlate: Window 'Save Content' being destroyed
+[2019.04.03-18.36.35:446][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CSGC_Map" FILE="../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/CSGC_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.03-18.36.35:726][826]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/CSGC_MapACA5867A427D362B4C49DA9B4DBF900A.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/CSGC_Map.umap'
+[2019.04.03-18.36.35:767][826]LogFileHelpers: Saving map 'CSGC_Map' took 0.517
+[2019.04.03-18.36.35:927][826]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/FirstPersonCharacter0558DDCF4C76259831B362BF12EA2579.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.04.03-18.36.35:969][826]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/FirstPersonGameModeABB7F80C440800BB88AA35B001BBC3B7.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2019.04.03-18.36.36:038][826]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/FirstPersonHUDA5E28CB34599095914205393174F6AA4.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset'
+[2019.04.03-18.36.36:051][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/HUD" FILE="../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/FirstPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2019.04.03-18.36.36:091][826]LogSavePackage: Moving '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Saved/HUDD304A88D4883ED7C3BB354820D88AD0B.tmp' to '../../../../../../Users/danie/Documents/Unreal Projects/CSGC/Content/FirstPersonBP/Blueprints/HUD.uasset'
+[2019.04.03-18.36.36:255][826]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.03-18.36.36:820][826]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.03-18.36.36:874][826]LogSlate: Window 'CSGC - Unreal Editor' being destroyed
+[2019.04.03-18.36.37:401][827]Cmd: QUIT_EDITOR
+[2019.04.03-18.36.38:124][827]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.03-18.36.38:237][827]LogExit: Preparing to exit.
+[2019.04.03-18.36.39:970][827]LogExit: Editor shut down
+[2019.04.03-18.36.39:971][827]LogExit: Transaction tracking system shut down
+[2019.04.03-18.36.49:530][827]LogExit: Object subsystem successfully closed.
+[2019.04.03-18.36.50:084][827]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.03-18.36.50:137][827]LogD3D11RHI: Shutdown
+[2019.04.03-18.36.50:137][827]LogD3D11RHI: CleanupD3DDevice
+[2019.04.03-18.36.50:651][827]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.03-18.36.53:698][827]LogModuleManager: Shutting down and abandoning module SequencerWidgets (618)
+[2019.04.03-18.36.53:698][827]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2019.04.03-18.36.53:698][827]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2019.04.03-18.36.53:713][827]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2019.04.03-18.36.53:713][827]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.04.03-18.36.53:713][827]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.04.03-18.36.53:713][827]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.04.03-18.36.53:730][827]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.04.03-18.36.53:730][827]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.04.03-18.36.53:730][827]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.04.03-18.36.53:742][827]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.04.03-18.36.53:759][827]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.04.03-18.36.53:772][827]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.04.03-18.36.53:797][827]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.04.03-18.36.53:816][827]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.04.03-18.36.53:816][827]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.04.03-18.36.53:816][827]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.04.03-18.36.53:816][827]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.04.03-18.36.53:816][827]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.04.03-18.36.53:834][827]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.04.03-18.36.53:843][827]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.04.03-18.36.53:859][827]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.04.03-18.36.53:860][827]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.04.03-18.36.53:860][827]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.04.03-18.36.53:874][827]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.04.03-18.36.53:894][827]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.04.03-18.36.53:912][827]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.04.03-18.36.53:913][827]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.04.03-18.36.53:968][827]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.04.03-18.36.53:968][827]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.04.03-18.36.53:968][827]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.04.03-18.36.54:039][827]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.04.03-18.36.54:040][827]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.04.03-18.36.54:040][827]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.04.03-18.36.54:078][827]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.04.03-18.36.54:100][827]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.04.03-18.36.54:122][827]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.04.03-18.36.54:159][827]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.04.03-18.36.54:173][827]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.04.03-18.36.54:173][827]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.04.03-18.36.54:207][827]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.04.03-18.36.54:207][827]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.04.03-18.36.54:207][827]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.04.03-18.36.55:180][827]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.04.03-18.36.55:180][827]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.04.03-18.36.55:180][827]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.04.03-18.36.55:180][827]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.04.03-18.36.55:180][827]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.04.03-18.36.55:190][827]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.04.03-18.36.55:206][827]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.04.03-18.36.55:228][827]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.04.03-18.36.55:244][827]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.04.03-18.36.55:244][827]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.04.03-18.36.55:244][827]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.04.03-18.36.55:261][827]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.04.03-18.36.55:261][827]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.04.03-18.36.55:274][827]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.04.03-18.36.55:275][827]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.04.03-18.36.55:276][827]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.04.03-18.36.55:276][827]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.04.03-18.36.55:308][827]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.04.03-18.36.55:342][827]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.04.03-18.36.55:349][827]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.04.03-18.36.55:360][827]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.04.03-18.36.55:370][827]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.04.03-18.36.55:436][827]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.04.03-18.36.55:465][827]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.04.03-18.36.55:483][827]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.04.03-18.36.55:539][827]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.04.03-18.36.55:539][827]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.04.03-18.36.55:556][827]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.04.03-18.36.55:556][827]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.04.03-18.36.55:585][827]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.04.03-18.36.55:585][827]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.04.03-18.36.55:593][827]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.04.03-18.36.55:624][827]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.04.03-18.36.55:624][827]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.04.03-18.36.55:624][827]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.04.03-18.36.55:624][827]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.04.03-18.36.55:636][827]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.04.03-18.36.55:659][827]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.04.03-18.36.55:660][827]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.04.03-18.36.55:672][827]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.04.03-18.36.55:673][827]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.04.03-18.36.55:673][827]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.04.03-18.36.55:673][827]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.04.03-18.36.55:690][827]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.04.03-18.36.55:690][827]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.04.03-18.36.55:690][827]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.04.03-18.36.55:690][827]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.04.03-18.36.55:690][827]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.04.03-18.36.55:690][827]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.04.03-18.36.55:700][827]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.04.03-18.36.55:712][827]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.04.03-18.36.55:724][827]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.04.03-18.36.55:724][827]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.04.03-18.36.55:724][827]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.03-18.36.55:854][827]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.03-18.36.55:875][827]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.03-18.36.55:875][827]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.03-18.36.55:875][827]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.03-18.36.55:884][827]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.03-18.36.55:884][827]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.03-18.36.55:884][827]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.03-18.36.55:897][827]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.03-18.36.55:897][827]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.03-18.36.55:897][827]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.03-18.36.55:898][827]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.03-18.36.55:898][827]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.03-18.36.55:898][827]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.03-18.36.55:898][827]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.03-18.36.55:939][827]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.04.03-18.36.55:939][827]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.04.03-18.36.55:939][827]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.04.03-18.36.55:939][827]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.04.03-18.36.55:964][827]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.04.03-18.36.55:964][827]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.04.03-18.36.55:965][827]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.04.03-18.36.55:965][827]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.04.03-18.36.55:973][827]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.04.03-18.36.55:973][827]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.03-18.36.55:973][827]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.03-18.36.55:973][827]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.03-18.36.55:973][827]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.03-18.36.55:973][827]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.03-18.36.55:973][827]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.04.03-18.36.55:987][827]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.04.03-18.36.55:990][827]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.03-18.36.55:990][827]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.03-18.36.56:025][827]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.03-18.36.56:036][827]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.04.03-18.36.56:036][827]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.04.03-18.36.56:049][827]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.03-18.36.56:064][827]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.03-18.36.56:064][827]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.03-18.36.56:064][827]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.03-18.36.56:064][827]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.03-18.36.56:064][827]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.03-18.36.56:078][827]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.03-18.36.56:095][827]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.03-18.36.56:107][827]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.03-18.36.56:116][827]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.03-18.36.56:116][827]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.04.03-18.36.56:116][827]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.04.03-18.36.56:116][827]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.04.03-18.36.56:116][827]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.04.03-18.36.56:156][827]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.04.03-18.36.56:166][827]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.04.03-18.36.56:166][827]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.04.03-18.36.56:166][827]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.04.03-18.36.56:166][827]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.04.03-18.36.56:177][827]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.04.03-18.36.56:177][827]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.04.03-18.36.56:177][827]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.04.03-18.36.56:206][827]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.03-18.36.56:206][827]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.03-18.36.56:308][827]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.03-18.36.56:436][827]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.03-18.36.56:436][827]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.03-18.36.56:463][827]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.03-18.36.56:463][827]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.03-18.36.56:463][827]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.03-18.36.56:463][827]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.03-18.36.56:654][827]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.03-18.36.56:785][827]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.03-18.36.56:823][827]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.03-18.36.56:823][827]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.03-18.36.56:849][827]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.03-18.36.56:867][827]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.03-18.36.56:873][827]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.03-18.36.56:942][827]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.03-18.36.56:942][827]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.03-18.36.56:942][827]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.03-18.36.56:957][827]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.03-18.36.56:973][827]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.04.03-18.36.56:988][827]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.04.03-18.36.56:995][827]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.04.03-18.36.56:995][827]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.04.03-18.36.56:995][827]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.04.03-18.36.57:008][827]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.04.03-18.36.57:008][827]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.04.03-18.36.57:008][827]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.04.03-18.36.57:008][827]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.04.03-18.36.57:020][827]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.04.03-18.36.57:042][827]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.04.03-18.36.57:042][827]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.04.03-18.36.57:126][827]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.04.03-18.36.57:134][827]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.04.03-18.36.57:158][827]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.04.03-18.36.57:158][827]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.04.03-18.36.57:158][827]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.04.03-18.36.57:158][827]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.04.03-18.36.57:189][827]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.04.03-18.36.57:189][827]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.04.03-18.36.57:261][827]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.04.03-18.36.57:261][827]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.04.03-18.36.57:397][827]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.04.03-18.36.57:413][827]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.04.03-18.36.57:413][827]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.04.03-18.36.57:413][827]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.04.03-18.36.57:413][827]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.04.03-18.36.57:413][827]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.04.03-18.36.57:413][827]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.04.03-18.36.57:413][827]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.04.03-18.36.57:413][827]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.04.03-18.36.57:431][827]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.04.03-18.36.57:447][827]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.04.03-18.36.57:447][827]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.04.03-18.36.57:460][827]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.04.03-18.36.57:484][827]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.04.03-18.36.57:485][827]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.04.03-18.36.57:505][827]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.04.03-18.36.57:520][827]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.04.03-18.36.57:523][827]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.04.03-18.36.57:569][827]LogDerivedDataCache: Shutdown
+[2019.04.03-18.36.57:569][827]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.04.03-18.36.57:569][827]LogXGEController: Cleaning working directory: C:/Users/danie/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.03-18.36.57:573][827]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.04.03-18.36.57:574][827]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.04.03-18.36.57:586][827]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.04.03-18.36.57:604][827]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.04.03-18.36.57:615][827]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.04.03-18.36.57:615][827]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.04.03-18.36.57:635][827]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.04.03-18.36.57:635][827]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.04.03-18.36.57:635][827]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.04.03-18.36.57:652][827]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.04.03-18.36.57:668][827]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.04.03-18.36.57:668][827]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.04.03-18.36.57:668][827]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.04.03-18.36.57:668][827]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.04.03-18.36.57:668][827]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.04.03-18.36.57:668][827]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.04.03-18.36.57:669][827]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.04.03-18.36.57:669][827]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.04.03-18.36.57:669][827]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.04.03-18.36.57:669][827]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.04.03-18.36.57:677][827]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.04.03-18.36.57:688][827]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.04.03-18.36.57:708][827]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.04.03-18.36.57:708][827]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.04.03-18.36.57:723][827]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.04.03-18.36.57:724][827]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.04.03-18.36.57:775][827]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.04.03-18.36.57:775][827]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.04.03-18.36.57:775][827]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.04.03-18.36.57:775][827]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.04.03-18.36.57:775][827]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.04.03-18.36.57:775][827]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.04.03-18.36.57:775][827]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.04.03-18.36.57:776][827]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.04.03-18.36.57:776][827]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.04.03-18.36.57:776][827]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.04.03-18.36.57:776][827]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.04.03-18.36.57:776][827]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.04.03-18.36.57:776][827]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.04.03-18.36.57:776][827]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.04.03-18.36.57:798][827]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.04.03-18.36.57:798][827]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.04.03-18.36.57:798][827]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.04.03-18.36.57:798][827]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.04.03-18.36.57:813][827]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.04.03-18.36.57:828][827]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.04.03-18.36.57:880][827]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.04.03-18.36.57:894][827]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.03-18.36.57:894][827]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD81D414E-481E-97A0-89CB-0B9A0A1EF1A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=28f5bebd467092a3a49f63b1a9b6a8e0%7C81191cb6ea6341d8b0f8d5af9e65d991%7C3685f160-e3a0-4f77-a86f-344f64a0e747&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.03-18.36.57:904][827]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.04.03-18.36.57:919][827]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.04.03-18.36.57:919][827]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.04.03-18.36.57:919][827]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.04.03-18.36.57:919][827]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.04.03-18.36.57:919][827]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.04.03-18.36.57:919][827]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.04.03-18.36.57:919][827]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.04.03-18.36.57:919][827]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.04.03-18.36.57:919][827]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.04.03-18.36.57:920][827]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.03-18.36.57:920][827]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.04.03-18.36.57:921][827]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.03-18.36.57:947][827]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.03-18.36.57:947][827]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.03-18.36.57:983][827]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.03-18.36.58:030][827]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.03-18.36.58:030][827]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.03-18.36.58:030][827]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.03-18.36.58:056][827]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.03-18.36.58:074][827]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.03-18.36.58:074][827]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.03-18.36.58:085][827]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.03-18.36.58:086][827]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.03-18.36.58:086][827]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.03-18.36.58:086][827]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.03-18.36.58:096][827]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.03-18.36.58:096][827]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.03-18.36.58:104][827]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.03-18.36.58:104][827]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.03-18.36.58:149][827]LogExit: Exiting.
+[2019.04.03-18.36.58:168][827]Log file closed, 04/03/19 13:36:58
